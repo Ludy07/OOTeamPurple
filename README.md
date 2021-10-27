@@ -10,12 +10,12 @@ An app intended to delivery food and offer a range of restaurants ranging from f
 
 Features:
 
-Be able to choose a specific restaurant
-Be able to have hassle-free order placement
-Be able to have easy payment options
-Be able to have wide menu selection
-Be able to customize the order
-Be able to cancel orders
-displays user identification
+- Be able to choose a specific restaurant
+- Be able to have hassle-free order placement
+- Be able to have easy payment options
+- Be able to have wide menu selection
+- Be able to customize the order
+- Be able to cancel orders
+- displays user identification
 
 Summary report of the system: To be able to create a food delivery app that is very efficient and hassle-free.
