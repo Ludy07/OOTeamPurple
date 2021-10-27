@@ -1,6 +1,6 @@
-# OOTeamPurple
+# OOPurpleProject
 
-Team Lead: Penetrante, Rachelle Colleen
+Team Leader: Penetrante, Rachelle Colleen
 
 Member: Almadrigo, David Ludy Andre
 
